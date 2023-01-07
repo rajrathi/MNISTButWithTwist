@@ -42,32 +42,32 @@ __The CE function takes input as class probabilities for labels as well as for p
 > Suppose there are four ones and two zeros, we equally assigned four ones to probability of 0.25 and the zeros we kept same.
 
 ## Trainig Log
-
+__Below is the short training log:__ <br>
 epoch: 0 
-<br> 	 <p> MNIST: total loss:  841.63 acc:  66.52 
-<br> 	 <p> Addition: total loss:  716.23 acc:  30.84
+<br> 	 MNIST: total loss:  841.63 acc:  66.52 
+<br> 	 Addition: total loss:  716.23 acc:  30.84
 <br>epoch: 1 
-<br> 	 <p> MNIST: total loss:  742.74 acc:  87.79 
-<br> 	 <p> Addition: total loss:  706.50 acc:  34.83
+<br> 	 MNIST: total loss:  742.74 acc:  87.79 
+<br> 	 Addition: total loss:  706.50 acc:  34.83
 <br>epoch: 2 
-<br> 	 <p> MNIST: total loss:  714.16 acc:  94.09 
-<br> 	 <p> Addition: total loss:  666.46 acc:  43.20
+<br> 	 MNIST: total loss:  714.16 acc:  94.09 
+<br> 	 Addition: total loss:  666.46 acc:  43.20
 <br>epoch: 3 
-<br> 	 <p> MNIST: total loss:  693.29 acc:  98.48 
-<br> 	 <p> Addition: total loss:  640.79 acc:  49.05
+<br> 	 MNIST: total loss:  693.29 acc:  98.48 
+<br> 	 Addition: total loss:  640.79 acc:  49.05
 <br> . . . .
 <br>epoch: 16 
-<br> 	 <p> MNIST: total loss:  686.50 acc:  99.77 
-<br> 	 <p> Addition: total loss:  621.23 acc:  62.18
+<br> 	 MNIST: total loss:  686.50 acc:  99.77 
+<br> 	 Addition: total loss:  621.23 acc:  62.18
 <br>epoch: 17 
-<br> 	 <p> MNIST: total loss:  686.77 acc:  99.72 
-<br> 	 <p> Addition: total loss:  620.66 acc:  62.39
+<br> 	 MNIST: total loss:  686.77 acc:  99.72 
+<br> 	 Addition: total loss:  620.66 acc:  62.39
 <br>epoch: 18 
-<br> 	 <p> MNIST: total loss:  686.58 acc:  99.76 
-<br> 	 <p> Addition: total loss:  620.01 acc:  62.52
+<br> 	 MNIST: total loss:  686.58 acc:  99.76 
+<br> 	 Addition: total loss:  620.01 acc:  62.52
 <br>epoch: 19 
-<br> 	 <p> MNIST: total loss:  686.44 acc:  99.78 
-<br> 	 <p> Addition: total loss:  619.78 acc:  62.64
+<br> 	 MNIST: total loss:  686.44 acc:  99.78 
+<br> 	 Addition: total loss:  619.78 acc:  62.64
 
 You can find the complete training log here: [Training Log](trainingLogs.txt)
 
